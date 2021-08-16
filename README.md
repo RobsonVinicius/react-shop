@@ -1,3 +1,34 @@
+
+# React Shop 
+
+Este projeto tem como objetivo exercitar os conhecimentos em React JS, Commerce.js, Stripe
+
+<br>
+
+
+## Preview Live (Em breve)
+
+![Preview Project](src/images/preview.jpg)
+
+<br>
+
+## Tecnologias
+
+Tecnologia | Descrição | Versão | Site
+------------ | ------------- | ------------ | ------------
+React JS | Uma biblioteca JavaScript para criar interfaces de usuário | v17.0.2 | https://pt-br.reactjs.org/
+React Router DOM | DOM bindings for React Router | v5.2.0 | https://reactrouter.com/web
+React Hook Form | Performant, flexible and extensible forms with easy-to-use validation. | v3.0 | https://react-hook-form.com/
+Material UI | Biblioteca de componentes React para um desenvolvimento ágil e fácil | v4.2.0 | https://material-ui.com/pt/
+Commerce.js | Flexibility to build the best shopping experiences | v5.3.0 | https://commercejs.com/
+Stripe Js | Infraestrutura de pagamentos para internet | v5.0 | https://stripe.com/docs/stripe-js/react
+
+<br>
+
+## Preview Demo (em construção)
+ 
+<br><br><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
