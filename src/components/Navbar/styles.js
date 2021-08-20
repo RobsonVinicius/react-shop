@@ -12,13 +12,15 @@ export default makeStyles((theme) => ({
     },
   },
   title: {
+    display: 'flex',
     flexGrow: 1,
     alignItems: 'center',
-    display: 'flex',
     textDecoration: 'none',
+    fontWeight: 'bold',
+    color: '#3c5059',
   },
   image: {
-    marginRight: '10px',
+    marginRight: '8px',
   },  
   grow: {
     flexGrow: 1,
